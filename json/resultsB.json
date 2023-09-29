@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Iron-Man",
+        "real_Name": "Tony Stark",
+        "race": "Human",
+        "weapon": "suit",
+        "id": 1,
+        "age": 53,
+        "ocuppation": "Scientific, Engineer, Tycoon",
+        "img":"https://www.komar.de/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/I/A/IADX8-062.jpg",
+        "resultValue":"between 125 and 135 points"
+    },
+    {
+        "name": "Captain America",
+        "real_Name": "Steve Rogers",
+        "race": "Human",
+        "weapon": "Shield",
+        "id": 2,
+        "age": 101,
+        "ocuppation": "Super Soldier",
+        "img":"https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
+        "resultValue":"between 135 and 155 points"
+    },
+    {
+        "name": "Thor",
+        "real_Name": "Thor Odinson",
+        "race": "Asgardian",
+        "weapon": "Mjolnir",
+        "id": 3,
+        "age": 1500,
+        "ocuppation": "God of Thunder",
+        "img":"https://www.cinemascomics.com/wp-content/uploads/2020/10/thor-chris-hemswoth-wallpapper.jpg",
+        "resultValue":"between 95 and 115 points"
+    },
+    {
+        "name": "Hulk",
+        "real_Name": "Bruce Banner",
+        "race": "Human",
+        "weapon": "Strength",
+        "id": 4,
+        "age": 49,
+        "ocuppation": "Scientist",
+        "img":"https://img.freepik.com/fotos-premium/increible-hulk-fondos-pantalla-fondos-pantalla-hd_853177-21137.jpg",
+        "resultValue":"between 0 and 50 points"
+    },
+    {
+        "name": "Black Widow",
+        "real_Name": "Natasha Romanoff",
+        "race": "Human",
+        "weapon": "Combat Skills",
+        "id": 5,
+        "age": 35,
+        "ocuppation": "Spy, Avenger",
+        "img":"https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/SJDORKYZFNCBLEQZIAZUCWDV4M.jpg",
+        "resultValue":"between 70 and 95 points"
+    },
+    {
+        "name": "Hawkeye",
+        "real_Name": "Clint Barton",
+        "race": "Human",
+        "weapon": "Bow and Arrow",
+        "id": 6,
+        "age": 48,
+        "ocuppation": "Archer, Avenger",
+        "img":"https://www.nacionflix.com/__export/1627573749751/sites/debate/img/2021/07/29/jaremy-renner-hawkeye.jpg_881623903.jpg",
+        "resultValue":"between 50 and 90 points"
+    }
+]

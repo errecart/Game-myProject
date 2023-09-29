@@ -1,0 +1,23 @@
+[
+    {   "id":1,
+        "fullName": "Patty Bouvier",
+        "age": "45",
+        "occupation": "Springfield Department of Motor Vehicles Employee",
+        "civilStatus": "Single",
+        "gender": "Woman",
+        "family": "2 sisters and mother",
+        "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Patty_Bouvier.png",
+        "resultValue":"70 or less points"
+    },
+    {
+        "id":2,
+        "fullName": "Selma Bouvier",
+        "age": "45",
+        "occupation": "Springfield Department of Motor Vehicles Employee",
+        "civilStatus": "Single",
+        "gender": "Woman",
+        "family": "2 sisters, mother and daughter",
+        "img": "https://3.bp.blogspot.com/-5E7XLyqpj5g/TlDR3nteHxI/AAAAAAAAACw/6bkxU7ROods/s1600/selma",
+        "resultValue":"70 or more points"
+    }
+]
